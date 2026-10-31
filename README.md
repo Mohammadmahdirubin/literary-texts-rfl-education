@@ -19,7 +19,7 @@ Russian as a Foreign Language; literary texts; pedagogical mediation; intercultu
 
 ## PDF
 
-Upload the final PDF to the repository root as `Literary-Texts-as-Pedagogical-Mediators-in-RFL-Education.pdf` before creating a Zenodo release.
+Upload the final PDF to the repository root as `Literary Texts as Pedagogical Mediators in Russian as a Foreign Language Education.pdf` before creating a Zenodo release.
 
 ## DOI
 
